@@ -1,0 +1,3 @@
+We are looking for a Software Engineer to join our backend team. Responsibilities include building RESTful APIs, integrating with databases (PostgreSQL/MySQL), working with cloud services (AWS), containerization (Docker), and collaborating in Agile teams.
+
+Required Skills: Python, Django or Flask, REST APIs, SQL, Docker, AWS, Git, unit testing

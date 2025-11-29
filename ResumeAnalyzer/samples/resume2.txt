@@ -1,0 +1,17 @@
+Sara Ahmed
+Email: sara.ahmed@example.com
+Phone: +92 312 7654321
+
+Summary
+Data scientist skilled in Python, pandas, scikit-learn, and machine learning model deployment.
+
+Experience
+Data Scientist, DataWorks (2020-2024)
+- Built ML models using scikit-learn and TensorFlow
+- Served models with Flask
+
+Education
+M.S. Data Science, UCP
+
+Skills
+Python, pandas, scikit-learn, TensorFlow, Flask, SQL, Docker

@@ -1,0 +1,1 @@
+Hiring Data Scientist to design ML models, evaluate models, and deploy them. Required skills: Python, pandas, scikit-learn, TensorFlow, SQL, model deployment, Docker

@@ -1,0 +1,14 @@
+John Doe
+Email: john.doe@example.com
+Phone: +1 555 555 5555
+
+Summary
+Frontend developer focused on React and modern JavaScript.
+
+Experience
+Frontend Engineer, WebCorp (2019-2024)
+- Built SPAs using React, Redux
+- Improved accessibility and performance
+
+Skills
+JavaScript, React, Redux, HTML, CSS, Webpack, Git

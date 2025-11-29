@@ -1,0 +1,30 @@
+{
+  "ats_score": 82.45,
+  "matched_skills": [
+    "python",
+    "django",
+    "rest",
+    "postgresql",
+    "docker",
+    "aws",
+    "git"
+  ],
+  "missing_skills": [
+    "unit testing"
+  ],
+  "strengths": [
+    "python",
+    "django",
+    "docker",
+    "aws"
+  ],
+  "weaknesses": [
+    "unit testing"
+  ],
+  "suggestions": [
+    "Add or emphasize these skills/keywords: unit testing.",
+    "Make the top 3-4 lines a tailored summary that includes the role + 2-3 top skills from the JD.",
+    "List technical skills as a separate comma-separated or column layout for easy parsing by ATS.",
+    "Include important JD keywords such as: unit, testing, flask, mysql, sqlalchemy."
+  ]
+}

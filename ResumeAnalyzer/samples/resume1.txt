@@ -1,0 +1,21 @@
+Ali Khan
+Email: ali.khan@example.com
+Phone: +92 300 1234567
+
+Summary
+Software engineer with 3 years of experience building web applications using Python and Django. Experienced with REST APIs, PostgreSQL, and Docker.
+
+Experience
+Software Engineer, XYZ Solutions (2021-2024)
+- Built REST APIs with Django and Django REST framework
+- Wrote unit tests and CI pipelines
+- Deployed apps with Docker on AWS
+
+Education
+B.S. Computer Science, University of Lahore
+
+Skills
+Python, Django, REST, PostgreSQL, Docker, AWS, Git
+
+Certifications
+AWS Certified Developer – Associate
